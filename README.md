@@ -10,22 +10,6 @@ This project is an end-to-end machine learning solution designed to analyze inst
 - 🧠 **Recommends** instructors based on specific student needs and learning patterns
 - 🧪 **Incorporates a quiz system** to assess student understanding and tailor recommendations
 
-📎 Dataset Description
-The dataset contains 2,000 records with the following key features:
-
-Feature	Description
-batch_id, instructor_id, course_id	Identifiers
-completion_rate :	% of students who completed the course
-avg_score_improvement	: Average improvement in scores
-avg_quiz_score :	Average quiz performance
-dropout_rate :	% of students who dropped out
-avg_watch_time :	Average time spent watching lectures
-assignment_submission_rate :	% of assignments submitted
-forum_activity_rate :	Participation level in forums
-avg_feedback_score :	Average instructor rating from students 
-feedback_response_rate :	Student response rate for feedback forms
-
-
 ## 🧰 Tech Stack
 - **Programming Language:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Streamlit
