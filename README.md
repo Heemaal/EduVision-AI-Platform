@@ -54,5 +54,7 @@ This project is an end-to-end machine learning solution designed to analyze inst
   - Personalized feedback and recommendation
   - Suggests remedial actions based on quiz performance
 
+  Running command : python -m streamlit run app.py
+
 📬 Contact & Contributions
 Feel free to fork this repository and submit pull requests for any improvements.
