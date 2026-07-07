@@ -37,7 +37,6 @@ feedback_response_rate :	Student response rate for feedback forms
 ### 1. Data Preprocessing
 - Handled missing values and removed duplicates
 - Performed feature engineering to create new relevant features (e.g., dropout risk, engagement score)
-- Standardized and encoded features as needed
 
 ### 2. Exploratory Data Analysis (EDA)
 - Analyzed distributions of key metrics (completion rate, dropout rate, watch time, etc.)
@@ -67,24 +66,9 @@ feedback_response_rate :	Student response rate for feedback forms
   - Recommends top instructors and suggests improvement areas
 
 - **📝 Interactive Quiz System:**
-  - Dynamic quiz generation based on course type (Science, Math, Arts)
-  - Personalized feedback and scores
+  - Dynamic quiz generation 
+  - Personalized feedback and recommendation
   - Suggests remedial actions based on quiz performance
-
-## 🚀 How to Run the Project
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/instructor-effectiveness-system.git
-cd instructor-effectiveness-system
-🧠 Key Learnings & Impact
-Built a complete data science lifecycle from EDA to deployment
-
-Integrated multiple components (analysis, prediction, recommendation, quiz) into a single application
-
-Designed an instructor recommendation engine that enhances personalized learning experiences
-
-Enabled data-driven decision-making for course quality improvement
 
 📬 Contact & Contributions
 Feel free to fork this repository and submit pull requests for any improvements.
