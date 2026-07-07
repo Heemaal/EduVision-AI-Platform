@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9eed417-2a28-4cfb-af09-dec44a971612" /># EduVision-AI-Platform 
 
 # Instructor Effectiveness Analysis & Recommendation System
 
